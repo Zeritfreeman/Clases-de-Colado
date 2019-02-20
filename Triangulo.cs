@@ -4,29 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClaseTriangulo
+namespace Figura2
 {
-    class Program
+    class Triangulo
     {
-        static void Main()
+        public double[] lados;
+        public string tipo;
+
+        public void Validar()
         {
+            if (lados.Length != 3 || lados[0] > (lados[1] + lados[2]) || lados[1] > (lados[0] + lados[2]) || lados[2] > (lados[0] + lados[1])) Console.WriteLine("Eso no es un triangulo");
+        }
 
-            Punto[] puntos = new Punto[4];
-
-            for (int i = 0; i < puntos.Length; i++)
-            {
-                puntos[i] = new Punto();
-
-                Console.WriteLine("Ingrese la componente x");
-                puntos[i].x = double.Parse(Console.ReadLine());
-                Console.WriteLine("Ingrese la componente y");
-                puntos[i].y = double.Parse(Console.ReadLine());
-            }
-
-            Triangulo triangulo = new Triangulo();
-            triangulo.coordenadas = puntos;
-            triangulo.Clasificar();
+        public void Calcular()
+        {
+            if (lados[0] == lados[1] && lados[0] == lados[2]) tipo = "Escaleno";
+            if else (lados[0] == lados[1] || lados[0] == lados[2]) = ""
         }
     }
 }
-
