@@ -1,0 +1,7 @@
+C:\Users\B09S201est\source\repos\Parcial OOP\Parcial OOP\bin\Debug\Parcial OOP.exe.config
+C:\Users\B09S201est\source\repos\Parcial OOP\Parcial OOP\bin\Debug\Parcial OOP.exe
+C:\Users\B09S201est\source\repos\Parcial OOP\Parcial OOP\bin\Debug\Parcial OOP.pdb
+C:\Users\B09S201est\source\repos\Parcial OOP\Parcial OOP\obj\Debug\Parcial OOP.csprojAssemblyReference.cache
+C:\Users\B09S201est\source\repos\Parcial OOP\Parcial OOP\obj\Debug\Parcial OOP.csproj.CoreCompileInputs.cache
+C:\Users\B09S201est\source\repos\Parcial OOP\Parcial OOP\obj\Debug\Parcial OOP.exe
+C:\Users\B09S201est\source\repos\Parcial OOP\Parcial OOP\obj\Debug\Parcial OOP.pdb
